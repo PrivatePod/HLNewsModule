@@ -1,0 +1,16 @@
+PODS:
+  - HLNewsModule (0.1.0)
+
+DEPENDENCIES:
+  - HLNewsModule (from `../`)
+
+EXTERNAL SOURCES:
+  HLNewsModule:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HLNewsModule: a637f89e1e58db2ccbc0163ee9d5e2e26dc04e1a
+
+PODFILE CHECKSUM: ea6754b0f459463464086757a80f949ae66aa909
+
+COCOAPODS: 1.7.2
