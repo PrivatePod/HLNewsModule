@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'HLNewsModule_Example' do
+  pod 'HLNewsModule', :path => '../'
+
+  target 'HLNewsModule_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
